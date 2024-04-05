@@ -1,0 +1,13 @@
+#title {
+    font-family: "Oswald";
+}
+
+#p1 {
+    text-align: center;
+    resize: auto;
+}
+
+*{
+    padding: 1rem; 
+    background-color: beige;
+}
